@@ -1,0 +1,7 @@
+demo
+https://www.lateral.io/resources-blog/create-chrome-extension-modify-websites-html-css
+
+["<all_urls>"]
+https://developer.chrome.com/docs/extensions/mv2/match_patterns/
+
+removed "css": ["styles.css"] from "content_scripts"
